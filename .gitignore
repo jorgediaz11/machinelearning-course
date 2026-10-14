@@ -1,0 +1,8 @@
+venv/
+.ipynb_checkpoints/
+data/*.csv
+models/*.pkl
+models/*.joblib
+.DS_Store
+Thumbs.db
+.vscode/
